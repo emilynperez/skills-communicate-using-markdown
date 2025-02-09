@@ -6,3 +6,7 @@
 ``` javascript
 cout << "Hello, world!" << endl;
 ```
+
+- [x] one
+- [ ] two
+- [ ] three
